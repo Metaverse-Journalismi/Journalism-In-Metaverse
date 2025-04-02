@@ -1,0 +1,1740 @@
+fileFormatVersion: 2
+guid: 3f258332d58d1024bb211ad2b2004929
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blacksea_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2196
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17319101091774b4799bfb72171b9b61
+      internalID: 490209079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_1
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 2196
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbbeb5b95eb56b45a735e2f37575e45
+      internalID: -284440271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_2
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 2196
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9de43f8aa298945ac95d465d2f20e0
+      internalID: -665952464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_3
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 2196
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b4139bc39c1d4469975e2745e02c02
+      internalID: 212662543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_4
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 2196
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353e93bd0291e6e4fb0783cf3d5a3f91
+      internalID: 1237368919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_5
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 2196
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d8d3c83424cf64d92d6e21f03f11a7
+      internalID: 1151375695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_6
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 2196
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3394c6dbedb567c4a92e9a323ccc523d
+      internalID: -1476731872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1952
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386dc452a27505f43b077368450b20da
+      internalID: 1685471366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_8
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1952
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839425187f132ef4c8a7a1521ccd6e6d
+      internalID: 2115743970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_9
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1952
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4743c95e8a7c5034fb1cf3e395fe3db9
+      internalID: 1279075038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_10
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 1952
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066101025c422784f9e1933cc4d1e0b1
+      internalID: 970466218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_11
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 1952
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8f67aca5c227644a3ca8ade249efc0
+      internalID: -884129909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_12
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 1952
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1f331d6199a354e83c4921c4696c15
+      internalID: -1049176395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_13
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 1952
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e7d31992fe4954dac828c8ee9940d4
+      internalID: 1424081489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1708
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09346556aeeb0f4da5248e1a3ae64d6
+      internalID: 603736870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_15
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1708
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5228bd2507094664796b893c77baf544
+      internalID: -1084838091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_16
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1708
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4937347962ba61489fd19ae703adf59
+      internalID: 960337913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_17
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 1708
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e06a814fef1e19419b93055bf6597da
+      internalID: 1611415744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_18
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 1708
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6377f7fcc69f29045b3a389a59594f91
+      internalID: -1858985338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_19
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 1708
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78fe3397a9ff3845ab987b7a42d0901
+      internalID: -931684478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_20
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 1708
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f3fc07e1bb7d748b4e794295c50213
+      internalID: -1671104774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1464
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6d759b7a42362409b54343d8c3e2f6
+      internalID: -214464206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_22
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1464
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e075a079c4a3046b9c5181507e31ad
+      internalID: 25018217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_23
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1464
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64b4cc498196534785db8996a82f4e8
+      internalID: -173724291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_24
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 1464
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015cf76b717c6834cb89729f3cd55af5
+      internalID: 1336044472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_25
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 1464
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f7f531fc9cb314d86efe3835444505
+      internalID: 1466685608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_26
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 1464
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b45904000c28d34db36180793f566de
+      internalID: -161497899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_27
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 1464
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd757b2378f24d4fa93ff1836461743
+      internalID: -1769496766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1220
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80aa0bd0446a56a419cb92d3aa185856
+      internalID: -1813422621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_29
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1220
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b451b72fdb64b419e80c76613f4f38
+      internalID: 1269793597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_30
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1220
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff27038efaf1d8441b6c9204b3423bbf
+      internalID: 110638146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_31
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 1220
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bfcd96eaeae2f4caad20d2692b84f7
+      internalID: -357586412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_32
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 1220
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67597ce4d2dde0344a80eea97e76c232
+      internalID: 708618000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_33
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 1220
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333cb978627cb8641a09592c4cd10d7a
+      internalID: 1908267880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_34
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 1220
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1b7c8cb190f6f43aaebd7496a4345e
+      internalID: 1602140899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 976
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e8832b3d012e44fb23b3f42e575d6d
+      internalID: 1102602135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_36
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 976
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c009a9b12aabb4b4fa8bb4aa067a0d8e
+      internalID: 416191253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_37
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 976
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc90aff5e921954fa98c0bbc1866ba6
+      internalID: -187147657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_38
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 976
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8b311c99088844f9baaa63c5939717
+      internalID: 1108129068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_39
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 976
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934800999dd3317448eb4002f854b223
+      internalID: 655054823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_40
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 976
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e9b32dbe6accf488c3425f8b7fbfc9
+      internalID: 359608252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_41
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 976
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d811a49c1b5f09488a6911021830b90
+      internalID: 982967166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d8fbc7517155a40a10ec9e8fb51cfd
+      internalID: 125581658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_43
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 732
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b723f669c8f1d24f8202c6c61b1c8c7
+      internalID: 161940029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_44
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 732
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa22546ee29338b4e82b58e54024bda5
+      internalID: 278574399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_45
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 732
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c53cc762c5db748823dad0de774697
+      internalID: 291496943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_46
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 732
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0625e8f4d7a47794aa76c505b32e6ba8
+      internalID: -252291828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_47
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 732
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7373e3ad7f32044ba465e8afc4544a9
+      internalID: -744828740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_48
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 732
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644d1a388258c174bbdb06b482d6f3f9
+      internalID: 88662137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a04b390e6f0dd24d95f0fa59de2e263
+      internalID: 1286976672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_50
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 488
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0870dff67799ce447afe2d3cfc7c3b04
+      internalID: -734288525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_51
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 488
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e97196fbe7076a46987048a4ebda5eb
+      internalID: 287124395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_52
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 488
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08015efe137e12544bb2d18b6be4030b
+      internalID: 1211499779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_53
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 488
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b73e0c08798c94aa37b727508299d9
+      internalID: 571962949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_54
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 488
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07431102b9270b349862ae65bc1dfdf5
+      internalID: 414338085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_55
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 488
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5500d6ad3b2be46489ee25ef397916ef
+      internalID: 1234132585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d0013e9497ccb4b94b2684db220873
+      internalID: -1131829600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_57
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 244
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8ea31b66aa5074e820eea2086139c6
+      internalID: -703376883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_58
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 244
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5efadcb8fb6864b8d49a1b52e8f3ff
+      internalID: 1023223715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_59
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 244
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169ebdf193ea281438d10d83007e5b5f
+      internalID: 683335067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_60
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 244
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0139a21fb490a4086de0ece28ceecd
+      internalID: -1598382311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_61
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 244
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e11b6dc0dadd54c89158b5798a0069
+      internalID: -879932439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_62
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 244
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdbc636861be57478dd2ef596bf26ff
+      internalID: 1944850615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d5dd2583c3c794bb0c7c1a4ad301bc
+      internalID: -1445904169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_64
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 0
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b110953c0e8f0541a64b067f156f809
+      internalID: 1052108350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_65
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 0
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c0969641d5f9a42b434c40ed74e11a
+      internalID: 612287377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_66
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 0
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275136b564393904bb57bd6a9266e64d
+      internalID: -1905596718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_67
+      rect:
+        serializedVersion: 2
+        x: 3192
+        y: 0
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6f7ccf51ef44f49ae1d5dc53722a3f
+      internalID: 845442328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_68
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 0
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ae426a6a1ebbb4d968051419c176c8
+      internalID: -1423895724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blacksea_69
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 0
+        width: 798
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9ebb6b7d8626f40bb312b9161b9f7d
+      internalID: -1490477355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 99f403b926e89b34cb8f3a6f31bf94ec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      blacksea_0: 490209079
+      blacksea_1: -284440271
+      blacksea_10: 970466218
+      blacksea_11: -884129909
+      blacksea_12: -1049176395
+      blacksea_13: 1424081489
+      blacksea_14: 603736870
+      blacksea_15: -1084838091
+      blacksea_16: 960337913
+      blacksea_17: 1611415744
+      blacksea_18: -1858985338
+      blacksea_19: -931684478
+      blacksea_2: -665952464
+      blacksea_20: -1671104774
+      blacksea_21: -214464206
+      blacksea_22: 25018217
+      blacksea_23: -173724291
+      blacksea_24: 1336044472
+      blacksea_25: 1466685608
+      blacksea_26: -161497899
+      blacksea_27: -1769496766
+      blacksea_28: -1813422621
+      blacksea_29: 1269793597
+      blacksea_3: 212662543
+      blacksea_30: 110638146
+      blacksea_31: -357586412
+      blacksea_32: 708618000
+      blacksea_33: 1908267880
+      blacksea_34: 1602140899
+      blacksea_35: 1102602135
+      blacksea_36: 416191253
+      blacksea_37: -187147657
+      blacksea_38: 1108129068
+      blacksea_39: 655054823
+      blacksea_4: 1237368919
+      blacksea_40: 359608252
+      blacksea_41: 982967166
+      blacksea_42: 125581658
+      blacksea_43: 161940029
+      blacksea_44: 278574399
+      blacksea_45: 291496943
+      blacksea_46: -252291828
+      blacksea_47: -744828740
+      blacksea_48: 88662137
+      blacksea_49: 1286976672
+      blacksea_5: 1151375695
+      blacksea_50: -734288525
+      blacksea_51: 287124395
+      blacksea_52: 1211499779
+      blacksea_53: 571962949
+      blacksea_54: 414338085
+      blacksea_55: 1234132585
+      blacksea_56: -1131829600
+      blacksea_57: -703376883
+      blacksea_58: 1023223715
+      blacksea_59: 683335067
+      blacksea_6: -1476731872
+      blacksea_60: -1598382311
+      blacksea_61: -879932439
+      blacksea_62: 1944850615
+      blacksea_63: -1445904169
+      blacksea_64: 1052108350
+      blacksea_65: 612287377
+      blacksea_66: -1905596718
+      blacksea_67: 845442328
+      blacksea_68: -1423895724
+      blacksea_69: -1490477355
+      blacksea_7: 1685471366
+      blacksea_8: 2115743970
+      blacksea_9: 1279075038
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
